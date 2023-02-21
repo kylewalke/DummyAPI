@@ -1,0 +1,10 @@
+!README.md
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+### VS Code ###
+.vscode/
+.mvn
+.DS_Store
